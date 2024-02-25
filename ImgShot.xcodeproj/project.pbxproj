@@ -49,6 +49,7 @@
 		A351F38F2B8BBCB3008BE005 /* ImgShotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImgShotUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A351F3932B8BBCB3008BE005 /* ImgShotUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImgShotUITests.swift; sourceTree = "<group>"; };
 		A351F3952B8BBCB3008BE005 /* ImgShotUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImgShotUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A351F3A22B8BBF49008BE005 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		A351F3662B8BBCB1008BE005 = {
 			isa = PBXGroup;
 			children = (
+				A351F3A22B8BBF49008BE005 /* README.md */,
 				A351F3712B8BBCB1008BE005 /* ImgShot */,
 				A351F3882B8BBCB3008BE005 /* ImgShotTests */,
 				A351F3922B8BBCB3008BE005 /* ImgShotUITests */,
